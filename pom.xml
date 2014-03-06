@@ -9,7 +9,7 @@
     </parent>
 
     <packaging>jar</packaging>
-    <groupId>org.webjars</groupId>
+    <groupId>com.itconsus.webjars</groupId>
     <artifactId>markdown-js</artifactId>
     <version>0.5.0-SNAPSHOT</version>
     <name>markdown-js</name>
@@ -33,9 +33,9 @@
     </licenses>
 
     <scm>
-        <url>http://github.com/webjars/markdown-js</url>
-        <connection>scm:git:https://github.com/webjars/markdown-js.git</connection>
-        <developerConnection>scm:git:https://github.com/webjars/markdown-js.git</developerConnection>
+        <url>http://github.com/kizdebski/markdown-js</url>
+        <connection>scm:git:https://github.com/kizdebski/markdown-js.git</connection>
+        <developerConnection>scm:git:https://github.com/kizdebski/markdown-js.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 
